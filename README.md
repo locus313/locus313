@@ -6,7 +6,7 @@
 </p>
 
 I am a passionate IT Systems Engineer and Network administrator.
-I don't concider myself a developer since I work way better with operating systems, shells, network appliances but I do contribute to various open source projects.
+I don't consider myself a developer since I work way better with operating systems, shells, network appliances but I do contribute to various open-source projects.
 
 - 🔭 I’m currently working on [AzerothCore](https://github.com/azerothcore/azerothcore-wotlk) and [ChromieCraft](https://www.chromiecraft.com)
 - 🌱 I’m currently learning C++, Docker, Kubernetes
@@ -64,6 +64,7 @@ ____
   <br/>
   <p align="left"> <a href="https://github.com/locus313"><img src="https://github-profile-trophy.vercel.app/?username=locus313" alt="locus313" /></a> </p>
 </details>
+
 
 ![](https://estruyf-github.azurewebsites.net/api/VisitorHit?user=locus313&repo=locus313&countColorcountColor&countColor=%237B1E7A)
 
