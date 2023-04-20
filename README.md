@@ -9,7 +9,7 @@ I am a passionate IT Systems Engineer and Network administrator.
 I don't consider myself a developer since I work way better with operating systems, shells, network appliances but I do contribute to various open-source projects.
 
 - 🔭 I’m currently working on [AzerothCore](https://github.com/azerothcore/azerothcore-wotlk) and [ChromieCraft](https://www.chromiecraft.com)
-- 🌱 I’m currently learning C++, Docker, Kubernetes
+- 🌱 I’m currently learning Terraform, Docker, Kubernetes
 - 👯 I’m looking to collaborate on open source projects but primarly [AzerothCore](https://github.com/azerothcore/azerothcore-wotlk)
 - 🤔 I’m looking for help with [AzerothCore](https://github.com/azerothcore/azerothcore-wotlk) C++
 - 💬 Ask me about windows, macos, linux and networking
