@@ -8,7 +8,7 @@
 I am a passionate IT Systems Engineer and Network administrator.
 I don't consider myself a developer since I work way better with operating systems, shells, network appliances but I do contribute to various open-source projects.
 
-- 🔭 I’m currently working on 
+- 🔭 I’m currently working on [terraform-module-aws-route53](https://github.com/locus313/terraform-module-aws-route53)
 - 🌱 I’m currently learning Azure, AWS and Terraform
 - 👯 I’m looking to collaborate on open source projects but primarly
 - 🤔 I’m looking for help with 
