@@ -5,74 +5,89 @@
   <a href="https://github.com/locus313"><img alt="followers" title="Follow me on Github" src="https://img.shields.io/badge/-GitHub-6f42c1?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
-I am a passionate IT Architect covering on-prem, cloud, networking and security.
-I don’t consider myself a developer since I work way better with operating systems, shells, network appliances but I do contribute to various open-source projects.
+---
 
-- 🔭 I’m currently working on [terraform-module-aws-route53](https://github.com/locus313/terraform-module-aws-route53)
-- 🌱 I’m currently learning Azure, AWS and Terraform
-- 👯 I’m looking to collaborate on open source projects but primarly
-- 🤔 I’m looking for help with 
-- 💬 Ask me about windows, macos, linux and networking
-- 📫 How to reach me: Use my links at the top
-- 💜 Interests: Tech, homelab, gaming, movies, tv series, anime
+## 👨‍💻 About Me
 
-<!--
-**locus313/locus313** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an enthusiastic IT Architect with a passion for on-prem, cloud, networking, and security. I thrive with operating systems, shells, network appliances, and automation, and enjoy contributing to open-source projects.
 
-Here are some ideas to get you started:
+- 🛠️ **Primary Skills:** Linux, Windows, macOS, Networking, Security, Shell Scripting
+- ☁️ **Cloud:** AWS, Azure
+- ⚙️ **Tools:** Terraform, Ansible, Docker, Git
+- 💻 **Languages:** Shell, PowerShell, JSON, YAML
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
 
-<!--
-### My stack 👨‍💻
+## 🚀 Current Focus & Projects
 
-Tools that I use on a daily basis, or that I've used in the past.
+- 🔭 Currently working on: [ssh-key-sync](https://github.com/locus313/ssh-key-sync)
+- 🌱 Learning: Azure, AWS, Terraform, advanced networking
+- 👯 Looking to collaborate on: Open source automation and infrastructure projects
+- 💬 Ask me about: Windows, macOS, Linux, networking, infrastructure automation
 
-<a href="https://stackshare.io/locus313/my-stack">
-  <img src="https://img.shields.io/badge/view-it-0690fa.svg?style=for-the-badge&logo=stackshare" alt="Locus313 :: StackShare" />
-</a>
--->
-____
-### Show ❤️ by 🌟 my [repositories](https://github.com/locus313?tab=repositories)
-____
+---
 
-## 📈 Github Stats
-<!-- https://github.com/anuraghazra/github-readme-stats -->
+## 🌟 Featured Projects
+
+| Repo | Description |
+|------|-------------|
+| [ssh-key-sync](https://github.com/locus313/ssh-key-sync) | Pull authorized_keys files from remote URLs and update SSH access for multiple local users. |
+| [terraform-module-aws-route53](https://github.com/locus313/terraform-module-aws-route53) | A Terraform module for managing AWS Route53 zones and records. |
+| [dotfiles](https://github.com/locus313/dotfiles) | My personal configuration files for UNIX-like systems. |
+
+---
+
+## 🤝 Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/patrick-lewis-5236778/)
+- [Email](mailto:pat@lo5t.com)
+- [GitHub](https://github.com/locus313)
+
+---
+
+## 💡 Fun Facts
+
+- 💜 Interests: Tech, homelab, gaming, movies, TV series, anime
+- 🏆 Always up for learning new tech and exploring automation tools!
+
+---
+
+## 📈 GitHub Stats
+
 <details> 
   <summary>📊 Profile Stats</summary>
   <br/>
-    <p align="left"> <a href="https://github.com/locus313"><img src="https://github-readme-stats.vercel.app/api?username=locus313&show_icons=true&count_private=true" alt="locus313" /></a> </p>
+  <p align="left">
+    <a href="https://github.com/locus313">
+      <img src="https://github-readme-stats.vercel.app/api?username=locus313&show_icons=true&count_private=true" alt="locus313" />
+    </a>
+  </p>
 </details>
 
 <details> 
-  <summary>💻 Most used languages</summary>
+  <summary>💻 Most Used Languages</summary>
   <br/>
-  <p align="left"> <a href="https://github.com/locus313"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=locus313&layout=compact&count_private=true" alt="locus313" /></a> </p>
+  <p align="left">
+    <a href="https://github.com/locus313">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=locus313&layout=compact&count_private=true" alt="locus313" />
+    </a>
+  </p>
 </details>
 
-<!-- https://github.com/jamesgeorge007/github-activity-readme -->
 <details>
-  <summary>🏆 My trophies</summary>
+  <summary>🏆 Trophies</summary>
   <br/>
-  <p align="left"> <a href="https://github.com/locus313"><img src="https://github-profile-trophy.vercel.app/?username=locus313" alt="locus313" /></a> </p>
+  <p align="left">
+    <a href="https://github.com/locus313">
+      <img src="https://github-profile-trophy.vercel.app/?username=locus313" alt="locus313" />
+    </a>
+  </p>
 </details>
 
+---
 
 ![](https://estruyf-github.azurewebsites.net/api/VisitorHit?user=locus313&repo=locus313&countColorcountColor&countColor=%237B1E7A)
 
-<!--
-____
+---
 
-![Profile View Counter](https://komarev.com/ghpvc/?username=locus313) ![Repos Badge](https://badges.pufler.dev/repos/locus313)
-____
-
-
--->
+### 🙏 Show your support by starring my [repositories](https://github.com/locus313?tab=repositories)!
