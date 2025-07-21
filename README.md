@@ -20,7 +20,7 @@ I'm an enthusiastic IT Architect with a passion for on-prem, cloud, networking, 
 
 ## 🚀 Current Focus & Projects
 
-- 🔭 Currently working on: [ssh-key-sync](https://github.com/locus313/ssh-key-sync)
+- 🔭 Currently working on: [ssh-key-sync](https://github.com/locus313/ssh-key-sync) and [homelab-gitops](https://github.com/locus313/homelab-gitops)
 - 🌱 Learning: Azure, AWS, Terraform, advanced networking
 - 👯 Looking to collaborate on: Open source automation and infrastructure projects
 - 💬 Ask me about: Windows, macOS, Linux, networking, infrastructure automation
@@ -34,6 +34,7 @@ I'm an enthusiastic IT Architect with a passion for on-prem, cloud, networking, 
 | [ssh-key-sync](https://github.com/locus313/ssh-key-sync) | Pull authorized_keys files from remote URLs and update SSH access for multiple local users. |
 | [terraform-module-aws-route53](https://github.com/locus313/terraform-module-aws-route53) | A Terraform module for managing AWS Route53 zones and records. |
 | [dotfiles](https://github.com/locus313/dotfiles) | My personal configuration files for UNIX-like systems. |
+| [homelab-gitops](https://github.com/locus313/homelab-gitops) | Docker Compose configurations for managing a self-hosted homelab using GitOps principles. |
 
 ---
 
