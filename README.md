@@ -72,10 +72,10 @@ I'm an enthusiastic IT Architect with a passion for on-prem, cloud, networking, 
 </details>
 
 <details>
-  <summary>🏆 Trophies</summary>
+  <summary>🏆 Achievements</summary>
   <br/>
 
-[![locus313](https://github-profile-trophy.vercel.app/?username=locus313)](https://github.com/locus313)
+![Achievements](assets/metrics.achievements.svg)
 
 </details>
 
