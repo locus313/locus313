@@ -59,7 +59,7 @@ I'm an enthusiastic IT Architect with a passion for on-prem, cloud, networking, 
   <summary>📊 Profile Stats</summary>
   <br/>
 
-![Profile Stats](assets/metrics.svg)
+![Profile Stats](assets/stats.svg)
 
 </details>
 
@@ -67,15 +67,15 @@ I'm an enthusiastic IT Architect with a passion for on-prem, cloud, networking, 
   <summary>💻 Most Used Languages</summary>
   <br/>
 
-![Top Languages](assets/metrics.languages.svg)
+![Top Languages](assets/top-langs.svg)
 
 </details>
 
 <details>
-  <summary>🏆 Achievements</summary>
+  <summary>🏆 Trophies</summary>
   <br/>
 
-![Achievements](assets/metrics.achievements.svg)
+[![locus313](https://github-profile-trophy.vercel.app/?username=locus313)](https://github.com/locus313)
 
 </details>
 
