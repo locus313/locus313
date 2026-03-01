@@ -58,31 +58,25 @@ I'm an enthusiastic IT Architect with a passion for on-prem, cloud, networking, 
 <details> 
   <summary>📊 Profile Stats</summary>
   <br/>
-  <p align="left">
-    <a href="https://github.com/locus313">
-      <img src="https://github-readme-stats.vercel.app/api?username=locus313&show_icons=true&count_private=true" alt="locus313" />
-    </a>
-  </p>
+
+![Profile Stats](assets/metrics.svg)
+
 </details>
 
 <details> 
   <summary>💻 Most Used Languages</summary>
   <br/>
-  <p align="left">
-    <a href="https://github.com/locus313">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=locus313&layout=compact&count_private=true" alt="locus313" />
-    </a>
-  </p>
+
+![Top Languages](assets/metrics.languages.svg)
+
 </details>
 
 <details>
-  <summary>🏆 Trophies</summary>
+  <summary>🏆 Achievements</summary>
   <br/>
-  <p align="left">
-    <a href="https://github.com/locus313">
-      <img src="https://github-profile-trophy.vercel.app/?username=locus313" alt="locus313" />
-    </a>
-  </p>
+
+![Achievements](assets/metrics.achievements.svg)
+
 </details>
 
 ---
