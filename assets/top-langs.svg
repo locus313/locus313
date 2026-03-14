@@ -130,7 +130,17 @@
           data-testid="lang-progress"
           x="0"
           y="0"
-          width="162.39"
+          width="248.61"
+          height="8"
+          fill="#000080"
+        />
+      
+        <rect
+          mask="url(#rect-mask)"
+          data-testid="lang-progress"
+          x="248.61"
+          y="0"
+          width="10.6"
           height="8"
           fill="#89e051"
         />
@@ -138,39 +148,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="162.39"
+          x="249.21"
           y="0"
-          width="72.18"
-          height="8"
-          fill="#844FBA"
-        />
-      
-        <rect
-          mask="url(#rect-mask)"
-          data-testid="lang-progress"
-          x="234.57"
-          y="0"
-          width="19.240000000000002"
-          height="8"
-          fill="#012456"
-        />
-      
-        <rect
-          mask="url(#rect-mask)"
-          data-testid="lang-progress"
-          x="243.81"
-          y="0"
-          width="13.94"
-          height="8"
-          fill="#5B2063"
-        />
-      
-        <rect
-          mask="url(#rect-mask)"
-          data-testid="lang-progress"
-          x="247.75"
-          y="0"
-          width="11.15"
+          width="10.38"
           height="8"
           fill="#e34c26"
         />
@@ -178,55 +158,75 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="248.9"
+          x="249.59"
           y="0"
-          width="11.09"
+          width="10.22"
           height="8"
-          fill="#701516"
+          fill="#844FBA"
+        />
+      
+        <rect
+          mask="url(#rect-mask)"
+          data-testid="lang-progress"
+          x="249.81"
+          y="0"
+          width="10.12"
+          height="8"
+          fill="#0000fb"
+        />
+      
+        <rect
+          mask="url(#rect-mask)"
+          data-testid="lang-progress"
+          x="249.93"
+          y="0"
+          width="10.07"
+          height="8"
+          fill="#EB8CEB"
         />
       
       
     <g transform="translate(0, 25)">
       <g transform="translate(0, 0)"><g transform="translate(0, 0)">
     <g class="stagger" style="animation-delay: 450ms">
-      <circle cx="5" cy="6" r="5" fill="#89e051" />
+      <circle cx="5" cy="6" r="5" fill="#000080" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Shell 64.96%
+        Lua 99.44%
       </text>
     </g>
   </g><g transform="translate(0, 25)">
     <g class="stagger" style="animation-delay: 600ms">
-      <circle cx="5" cy="6" r="5" fill="#844FBA" />
+      <circle cx="5" cy="6" r="5" fill="#89e051" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        HCL 28.87%
+        Shell 0.24%
       </text>
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms">
-      <circle cx="5" cy="6" r="5" fill="#012456" />
+      <circle cx="5" cy="6" r="5" fill="#e34c26" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        PowerShell 3.70%
+        HTML 0.15%
       </text>
     </g>
   </g></g><g transform="translate(150, 0)"><g transform="translate(0, 0)">
     <g class="stagger" style="animation-delay: 450ms">
-      <circle cx="5" cy="6" r="5" fill="#5B2063" />
+      <circle cx="5" cy="6" r="5" fill="#844FBA" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Gherkin 1.58%
+        HCL 0.09%
       </text>
     </g>
   </g><g transform="translate(0, 25)">
     <g class="stagger" style="animation-delay: 600ms">
-      <circle cx="5" cy="6" r="5" fill="#e34c26" />
+      <circle cx="5" cy="6" r="5" fill="#0000fb" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        HTML 0.46%
+        Raku 0.05%
       </text>
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms">
-      <circle cx="5" cy="6" r="5" fill="#701516" />
+      <circle cx="5" cy="6" r="5" fill="#EB8CEB" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Ruby 0.44%
+        XSLT 0.03%
       </text>
     </g>
   </g></g>
