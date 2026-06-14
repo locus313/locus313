@@ -13,14 +13,14 @@ I'm an enthusiastic IT Architect with a passion for on-prem, cloud, networking, 
 
 - 🛠️ **Primary Skills:** Linux, Windows, macOS, Networking, Security, Shell Scripting
 - ☁️ **Cloud:** AWS, Azure
-- ⚙️ **Tools:** Terraform, Ansible, Docker, Git
-- 💻 **Languages:** Shell, PowerShell, JSON, YAML
+- ⚙️ **Tools:** Terraform, Ansible, Docker, Git, Chezmoi
+- 💻 **Languages:** Shell, PowerShell, JSON, YAML, HCL
 
 ---
 
 ## 🚀 Current Focus & Projects
 
-- 🔭 Currently working on: [ssh-key-sync](https://github.com/locus313/ssh-key-sync) and [homelab-gitops](https://github.com/locus313/homelab-gitops)
+- 🔭 Currently working on: [ssh-key-sync](https://github.com/locus313/ssh-key-sync), [homelab-gitops](https://github.com/locus313/homelab-gitops), and [dotfiles](https://github.com/locus313/dotfiles)
 - 🌱 Learning: Azure, AWS, Terraform, advanced networking
 - 👯 Looking to collaborate on: Open source automation and infrastructure projects
 - 💬 Ask me about: Windows, macOS, Linux, networking, infrastructure automation
@@ -31,10 +31,12 @@ I'm an enthusiastic IT Architect with a passion for on-prem, cloud, networking, 
 
 | Repo | Description |
 |------|-------------|
-| [ssh-key-sync](https://github.com/locus313/ssh-key-sync) | Pull authorized_keys files from remote URLs and update SSH access for multiple local users. |
-| [terraform-module-aws-route53](https://github.com/locus313/terraform-module-aws-route53) | A Terraform module for managing AWS Route53 zones and records. |
-| [dotfiles](https://github.com/locus313/dotfiles) | My personal configuration files for UNIX-like systems. |
-| [homelab-gitops](https://github.com/locus313/homelab-gitops) | Docker Compose configurations for managing a self-hosted homelab using GitOps principles. |
+| [ssh-key-sync](https://github.com/locus313/ssh-key-sync) | Robust Bash script for automating SSH authorized_keys synchronization from multiple sources. |
+| [homelab-gitops](https://github.com/locus313/homelab-gitops) | Docker Compose & Terraform configurations for managing a self-hosted homelab using GitOps principles. |
+| [dotfiles](https://github.com/locus313/dotfiles) | My personal dotfiles managed with Chezmoi for cross-platform (Linux, macOS, Windows) configuration. |
+| [terraform-module-aws-route53](https://github.com/locus313/terraform-module-aws-route53) | Terraform module for AWS Route53 with S3→CloudFront→ACM→Route53 HTTPS redirect stack. |
+| [macos-wireless-autoswitch](https://github.com/locus313/macos-wireless-autoswitch) | macOS utility that auto-toggles WiFi when wired Ethernet is connected/disconnected via LaunchDaemon. |
+| [github-api-scripts](https://github.com/locus313/github-api-scripts) | Bash scripts for interacting with the GitHub API. |
 
 ---
 
