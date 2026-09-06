@@ -31,6 +31,7 @@ I'm an enthusiastic IT Architect with a passion for on-prem, cloud, networking, 
 
 | Repo | Description |
 |------|-------------|
+| [WoW-3.3.5a-Addons](https://github.com/locus313/WoW-3.3.5a-Addons) | WoW 3.3.5a (WotLK) addons, including back-ports from newer clients. |
 | [ssh-key-sync](https://github.com/locus313/ssh-key-sync) | Robust Bash script for automating SSH authorized_keys synchronization from multiple sources. |
 | [homelab-gitops](https://github.com/locus313/homelab-gitops) | Docker Compose & Terraform configurations for managing a self-hosted homelab using GitOps principles. |
 | [dotfiles](https://github.com/locus313/dotfiles) | My personal dotfiles managed with Chezmoi for cross-platform (Linux, macOS, Windows) configuration. |
@@ -83,7 +84,7 @@ I'm an enthusiastic IT Architect with a passion for on-prem, cloud, networking, 
 
 ---
 
-![](https://estruyf-github.azurewebsites.net/api/VisitorHit?user=locus313&repo=locus313&countColorcountColor&countColor=%237B1E7A)
+![](https://estruyf-github.azurewebsites.net/api/VisitorHit?user=locus313&repo=locus313&countColor=%237B1E7A)
 
 ---
 
