@@ -131,6 +131,17 @@ declare -A MANUAL=(
     ["kopia/kopia"]="Self-hosted / Homelab"
     ["miantiao-me/sink"]="Self-hosted / Homelab"
     ["asheroto/winget-install"]="Windows Tools"
+    ["warpdotdev/warp"]="CLI Tools"
+    ["clarkemedia/email-signature-generator"]="Miscellaneous"
+    ["helias/ai-notify"]="AI / ML"
+    ["mattpocock/skills"]="AI / ML"
+    ["architecpoint/architecpoint.com"]="Static Sites / Blogs"
+    ["helias/helias.github.io"]="Static Sites / Blogs"
+    ["azure/review-checklists"]="DevOps / Infrastructure"
+    ["invoicerr-app/invoicerr"]="Self-hosted / Homelab"
+    ["emdash-cms/emdash"]="Static Sites / Blogs"
+    ["s1t5/mail-archiver"]="Self-hosted / Homelab"
+    ["0x101-cyber-security/netlock-rmm"]="Self-hosted / Homelab"
 )
 
 # ---------------------------------------------------------------------------
@@ -224,8 +235,10 @@ classify_primary() {
     if topic_in "ai" "llm" "mcp" "ollama" "openai" \
        || topic_has "machine-learning" "artificial-intelligence" "prompt-engineering" \
                     "github-copilot" "large-language-model" "deep-learning" \
+                    "agent-skill" "coding-agent" "ai-design" "ai-tool" "ai-engineering" \
        || name_has "open-webui" "awesome-mcp" "awesome-copilot" "copilot-metrics" \
-       || desc_has "large language model" "ai assistant" "machine learning"; then
+       || desc_has "large language model" "ai assistant" "machine learning" \
+                  "agent skill" "ai agent" "coding agent"; then
         echo "AI / ML"; return; fi
 
     if topic_in "gaming" "game-server" \
@@ -236,14 +249,14 @@ classify_primary() {
 
     if topic_in "jekyll" "blog" "github-pages" "jamstack" "hugo" \
        || topic_has "jekyll-theme" "jekyll-blog" "static-site" "jekyll-site" \
-       || name_has "reverie" "chirpy" \
+       || name_has "reverie" "chirpy" ".github.io" \
        || desc_has "jekyll theme" "static site" "blog theme"; then
         echo "Static Sites / Blogs"; return; fi
 
     if topic_in "notes" "obsidian" "wiki" \
        || topic_has "knowledge-base" "cheat-sheet" "second-brain" "notebook" \
        || name_has "obsidian" "notebook" \
-       || desc_has "cheat sheet" "knowledge base" "note-taking"; then
+       || desc_has "cheat sheet" "knowledge base" "note-taking" "obsidian"; then
         echo "Notes / Knowledge Base"; return; fi
 
     if topic_in "self-hosted" "selfhosted" "homelab" "self-hosting" "unraid" \
